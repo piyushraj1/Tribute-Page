@@ -1,0 +1,46 @@
+body{
+    
+ background: aqua;
+      
+}
+.container h1{
+    color:brown;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 1px 1px black;
+    text-transform: uppercase;
+    /* text-decoration: underline black ; */
+    /* box-shadow: 2px solid black; */
+}
+.container img{
+    height: 400px;
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.content{
+    width: fit-content;
+    height: 300px;
+    display: block;
+    margin: 50px auto auto;
+    border: 3px solid black;
+    box-shadow: 10px 10px 18px #e8a108;
+}
+.content p{
+    margin-left: 10px;
+
+
+}
+.footer p{
+    text-align: center;
+    margin-top: 69px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+
